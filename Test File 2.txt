@@ -1,1 +1,3 @@
 Test2 file changes to merge from CLI
+
+Adding new Changes to file.
